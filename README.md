@@ -1,3 +1,6 @@
+<img width="353" height="777" alt="Screenshot 2026-01-07 at 4 23 47 PM" src="https://github.com/user-attachments/assets/48700ef9-36db-4c34-b903-f67479fcc8db" />
+
+
 ```md
 # Network Monitor (Flutter + Android Platform Channels)
 
